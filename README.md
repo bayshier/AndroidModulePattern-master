@@ -1,12 +1,8 @@
 
 ### 你知道吗？Github的 “star” 功能就像微信朋友圈中的 **“点赞”** 功能，如果你觉得我的代码对你有帮助，你可以帮我点个赞，随手 “star” 一下。
-<img src="screenshots/starmean.PNG" width=600></img>
-
 
 # AndroidModulePattern
 Android项目组件化示例代码
-
-博客：http://blog.csdn.net/guiying712/article/details/55213884
 
 ### app组件功能：
 1. app组件主要用于管理其他组件；
@@ -43,3 +39,5 @@ Android项目组件化示例代码
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+    
+    http://www.miaopai.com/show/-YZD4h~cQy0LJukKshT24Q__.htm
