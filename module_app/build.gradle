@@ -65,8 +65,8 @@ dependencies {
     if (isModule.toBoolean()) {
         compile project(':lib_common')
     } else {
-        compile project(':module_main')
         compile project(':module_girls')
         compile project(':module_news')
+        compile project(':module_main')
     }
 }

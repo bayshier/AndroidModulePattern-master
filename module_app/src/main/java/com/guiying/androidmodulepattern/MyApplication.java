@@ -3,6 +3,7 @@ package com.guiying.androidmodulepattern;
 import android.content.Context;
 
 import com.github.mzule.activityrouter.annotation.Modules;
+import com.github.mzule.activityrouter.annotation.Router;
 import com.guiying.common.base.BaseApplication;
 
 import org.acra.ACRA;
@@ -36,7 +37,7 @@ import org.acra.sender.ReportSenderException;
         resToastText = R.string.crash_toast_text,
         resDialogText = R.string.crash_dialog_text,
         resDialogTitle = R.string.crash_dialog_title)
-@Modules({"main", "girls", "news"})
+@Modules({"girls", "main", "news"})
 public class MyApplication extends BaseApplication {
 
 
